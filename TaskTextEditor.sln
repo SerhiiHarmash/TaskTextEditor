@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTextEditor", "TaskTextEditor\TaskTextEditor.csproj", "{259BCF5F-BAAF-44DD-A15E-558B9C74E5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259BCF5F-BAAF-44DD-A15E-558B9C74E5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259BCF5F-BAAF-44DD-A15E-558B9C74E5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259BCF5F-BAAF-44DD-A15E-558B9C74E5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259BCF5F-BAAF-44DD-A15E-558B9C74E5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38AB91E4-8618-4E7D-B4F9-4DC0CD0C691B}
+	EndGlobalSection
+EndGlobal
